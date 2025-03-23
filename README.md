@@ -1,4 +1,4 @@
-# saadaafiri
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=F73A57&width=435&lines=Hello,+I'm+SaadAafiri!;I'm+a+Developer!;I+love+Coding!+%E2%9C%A8" />
 <!DOCTYPE html>
 <html lang="en">
 <head>
