@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-    <img src="https://s8.ezgif.com/tmp/ezgif-8212d07d6d6020.gif"/>
+    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm85ZDVoeWo1Y2doaHAxcnpkdjh1cHhmZTBmeTI3NHBlenJ3N2N6OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"/>
 </body>
 </html>
 # 💫 About Me:
